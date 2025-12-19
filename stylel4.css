@@ -1,0 +1,129 @@
+/* selector{
+    property:value;
+    property:value;
+
+} */
+
+.head2 {
+    text-decoration: underline dashed;
+    font-size: 24px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: oblique;
+    font-weight: 900;
+    font-variant: small-caps;
+    color: rgba(255, 0, 0, 0.5);
+  }
+  body{
+    background: rgb(165, 176, 165);
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-size: contain;
+  }
+  ol {
+    color: green;
+  }
+  
+  #id1 {
+    color: brown;
+  }
+  
+  footer h2 {
+    color: orange;
+  }
+  
+  h1 {
+    font-size: 200%; 
+    color: darkblue; 
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic; 
+    font-weight: bold; 
+    font-variant: small-caps;
+    /*border-style: solid;
+    border-color: chartreuse;
+    border-width: 5px 8px 12px 10px; */
+    border:red solid 7px;
+    /* border-top: green dashed 10px;
+    border-bottom: ;
+    border-left: ;
+    border-right: ; */
+    width: 50%
+    min-width
+    height 50px
+  }
+  
+  
+  p {
+    font-size: 100%;
+    color: #333333; 
+    font-family: Arial, Helvetica, sans-serif; 
+    font-style: normal;
+    font-weight: 400; 
+    font-variant: normal;
+  }
+  
+  table {
+    color: darkslategray;
+    font-size: 100%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+  
+  th {
+    color: blue;
+    font-size: 100%;
+    font-family: 'Courier New', Courier, monospace;
+  }
+  
+  td {
+    color: darkred;
+    font-size: 100%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  
+  form {
+    color: darkgreen;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  h1{
+    color: rgb(255, 255, 255);
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    font-weight: 1000;
+    font-variant: small-caps;
+    border-style: dashed;
+  
+    border:solid rgb(106, 18, 18) 7px
+    
+  }
+  h3{
+      color:#ffffff;
+  }
+  .dis{
+      background-image: url();
+      background-repeat:not-repeat;
+      background-size:cover;
+      
+      border: 1cm;
+      border-color: rgb(159, 27, 27);
+  
+  }
+  #con{
+      color: aqua;
+  }
+  a:link{
+      color: rgb(179, 74, 133);
+  }
+  a:visited{
+      color:rgb(106, 18, 18);
+  }
+  a:hover{ 
+      color: blueviolet;
+      font-size: 25px;
+      font-family:Verdana, Geneva, Tahoma, sans-serif;
+  }
+  a:active{
+      color: #faebd7;
+  }
+  

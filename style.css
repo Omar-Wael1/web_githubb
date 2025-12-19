@@ -1,0 +1,15 @@
+body {
+    
+}  h2{
+        text-decoration: underline dashed;
+        color:  rgb(238, 255, 0);
+        font-size: 24px;
+        font-family: sans-serif;
+        font-style: oblique;
+        font-weight: 700;
+        font-variant: small-caps;
+    }
+    #Skills{
+        color: antiquewhite;
+    }
+ 
